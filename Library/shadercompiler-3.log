@@ -1,0 +1,1429 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-3-2916
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 0 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1118 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1984 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=1984 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (53): Can't open include file "AngryInclude.cginc"
+  api=0 type=1 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (57): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2001 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (57): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2001 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (74): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 1 at (99): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (102): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 1 at (99): unrecognized profile specifier "tex"
+  api=1 type=1 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (74): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 0 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 0 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 0 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 0 at (99): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (102): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 1 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 1 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 1 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 1 at (80): too many parameters in function call
+  error: 2 plat 1 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 1 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=1 type=1 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (59): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 1 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 1 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 1 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 1 at (80): too many parameters in function call
+  error: 2 plat 1 at (83): too many parameters in function call
+  error: 2 plat 1 at (84): syntax error, unexpected '.' at token "." type name expected at token "." declaration of "lm" conflicts with previous declaration at (83)
+  error: 1 plat 1 at (84): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 1 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=1 type=1 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=2053 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2053 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1118 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (53): Can't open include file "AngryInclude.cginc"
+  api=0 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=1984 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=0 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (58): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2001 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (74): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 0 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 0 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 0 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 0 at (99): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (102): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (74): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 1 at (99): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (102): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2053 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1118 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1984 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (53): Can't open include file "AngryInclude.cginc"
+  api=0 type=1 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=0 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 0 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 0 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 0 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 0 at (99): unrecognized profile specifier "tex"
+  api=0 type=0 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=0 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 1 at (99): unrecognized profile specifier "tex"
+  api=1 type=1 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=1 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  error: 1 plat 1 at (110): implicit cast from "half4" to "half3"
+  api=1 type=1 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (59): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 0 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 0 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 0 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 0 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 0 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 0 at (80): too many parameters in function call
+  error: 2 plat 0 at (83): too many parameters in function call
+  error: 2 plat 0 at (84): syntax error, unexpected '.' at token "." type name expected at token "." declaration of "lm" conflicts with previous declaration at (83)
+  error: 1 plat 0 at (84): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 0 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=0 type=0 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (65): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (65): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (68): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (69): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (75): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (75): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (81): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (82): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (83): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (84): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (86): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (61): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2053 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (53): Can't open include file "AngryInclude.cginc"
+  api=0 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (53): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=1984 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2408 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (58): Can't open include file "AngryInclude.cginc"
+  api=1 type=0 insize=2001 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (58): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2001 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (59): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 0 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 0 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 0 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 0 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 0 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 0 at (80): too many parameters in function call
+  error: 2 plat 0 at (83): too many parameters in function call
+  error: 2 plat 0 at (84): syntax error, unexpected '.' at token "." type name expected at token "." declaration of "lm" conflicts with previous declaration at (83)
+  error: 1 plat 0 at (84): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 0 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=0 type=1 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (65): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (65): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (68): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (69): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (75): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (75): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (81): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (82): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (83): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (84): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (86): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (61): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=1 insize=2053 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1118 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1118 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (20): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (36): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (36): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (39): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (40): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (41): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (45): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (46): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (47): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (49): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=4 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (17): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1118 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (53): Can't open include file "AngryInclude.cginc"
+  api=0 type=0 insize=1984 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (52): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1984 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (74): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 1 at (99): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (102): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=2152 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (67): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (67): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (70): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (77): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (79): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 0 at (79): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 0 at (85): function type not allowed for parameter "frag"
+  error: 2 plat 0 at (86): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (87): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (92): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (95): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (97): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (99): syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "saturate"
+  error: 1 plat 0 at (99): unrecognized profile specifier "tex"
+  api=0 type=1 insize=2152 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1541 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (134): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (134): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (138): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (141): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (148): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (149): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (152): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1541 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  error: 1 plat 1 at (110): implicit cast from "half4" to "half3"
+  api=1 type=1 insize=2697 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (25): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (28): Can't open include file "AngryInclude.cginc"
+  api=1 type=1 insize=2323 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (59): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 1 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 1 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 1 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 1 at (80): too many parameters in function call
+  error: 2 plat 1 at (83): too many parameters in function call
+  error: 2 plat 1 at (84): syntax error, unexpected '.' at token "." type name expected at token "." declaration of "lm" conflicts with previous declaration at (83)
+  error: 1 plat 1 at (84): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 1 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=1 type=0 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 0 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 0 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 0 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 0 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 0 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 0 at (80): too many parameters in function call
+  error: 2 plat 0 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 0 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 0 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=0 type=1 insize=1960 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (52): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (52): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (55): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (56): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (59): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (62): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (64): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (65): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (70): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (71): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (72): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected '(' at token "(" type name expected at token "(" syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "UnpackNormal"
+  error: 1 plat 1 at (73): unrecognized profile specifier "tex2D" unrecognized profile specifier "i"
+  error: 2 plat 1 at (75): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (75): unrecognized profile specifier "nrml"
+  error: 2 plat 1 at (78): syntax error, unexpected "+=" at token "+=" type name expected at token "+=" syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (78): unrecognized profile specifier "rtRefl" unrecognized profile specifier "_FakeReflect"
+  error: 2 plat 1 at (80): too many parameters in function call
+  error: 2 plat 1 at (83): too many parameters in function call
+  error: 2 plat 1 at (84): syntax error, unexpected '.' at token "." type name expected at token "." declaration of "lm" conflicts with previous declaration at (83)
+  error: 1 plat 1 at (84): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (87): syntax error, unexpected '=' at token "=" type name expected at token "=" declaration of "tex" conflicts with previous declaration at (80) declaration of "tex" conflicts with previous declaration at (80) declaration of "rtRefl" conflicts with previous declaration at (77)
+  error: 1 plat 1 at (87): unrecognized profile specifier "tex"
+  error: 2 plat 1 at (89): declaration of "tex" conflicts with previous declaration at (80)
+  api=1 type=1 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1960 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=0 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=0 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (29): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (114): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (114): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (117): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (118): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (121): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (127): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (132): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 1 at (133): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (136): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (137): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (144): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (147): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (151): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (26): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=1972 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 1 at (65): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (65): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 1 at (68): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (69): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (71): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (73): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (75): WriteTangentSpaceData: function type parameters not allowed; syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected '.' at token "." type name expected at token "." syntax error, unexpected '.' at token "." type name expected at token "." function type not allowed for parameter "WriteTangentSpaceData"
+  error: 1 plat 1 at (75): unrecognized profile specifier "v" unrecognized profile specifier "o" unrecognized profile specifier "o"
+  error: 2 plat 1 at (81): function type not allowed for parameter "frag"
+  error: 2 plat 1 at (82): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (83): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (84): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (86): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (88): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (90): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (94): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=1 type=1 insize=1846 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (40): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=1551 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): Can't open include file "AngryInclude.cginc"
+  error: 2 plat 0 at (120): syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 0 at (120): unrecognized profile specifier "v" unrecognized profile specifier "appdata_full"
+  error: 2 plat 0 at (123): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (124): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (125): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (126): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (131): frag: function type parameters not allowed; function type not allowed for parameter "frag"
+  error: 2 plat 0 at (132): syntax error, unexpected '{', expecting ',' or ')' at token "{" type name expected at token "{"
+  error: 2 plat 0 at (133): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (135): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 0 at (139): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  api=0 type=1 insize=1551 outsize=0 kw=LIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=0 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (60): failed to open source file: 'AngryInclude.cginc'
+  api=8 type=1 insize=2053 outsize=0 kw=LIGHTMAP_OFF ok=0
+Unhandled exception: Readfile from pipe failed. GLE=파이프가 끝났습니다.
+
+
+Quitting shader compiler process

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Others/Intro.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Main.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Setting.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_CharacterCard1.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_CharacterCard2.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_CharacterCard3.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_CharacterCard4.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard1.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard2.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard3.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard4.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard5.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard6.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard7.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard8.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_GameCard9.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_SpecialCard1.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Cardset_SpecialCard2.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Character.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/GameRule1.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/GameRule2.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/GameRule3.unity
+  - enabled: 1
+    path: Assets/Scenes/Others/Camp.unity
+  - enabled: 1
+    path: Assets/Scenes/Game/GameMode.unity

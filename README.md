@@ -40,6 +40,31 @@ if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4
 </code></pre>
 enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
 
+<pre><code>
+IEnumerator AddRandomCard(PlayerTypes playerType, SlotTypes slotType)
+{
+	yield return new WaitForSeconds(0.5f); //호출한 함수에게 1초후에 깨워서 아래 기능을 수행하라는 정보를 넘겨준다.
+	addRandCnt += 1;
+	...
+	
+	if (playerType == PlayerTypes.User) // 유저턴이라면
+	{
+	position = UserCardPosition(slotType);
+	rotation = UserManagerScript.gameObject.transform.rotation;
+	UserManagerScript.DrawCard[(int)slotType] = Instantiate (Cards [(int)cardType], position, rotation) as GameObject;
+	...
+	switch(addRandCnt) // 재귀 걸리게 하는 조건
+	{
+	case 1: StartCoroutine(AddRandomCard (PlayerTypes.User, SlotTypes.SlotB)); break;
+	case 2: StartCoroutine(AddRandomCard (PlayerTypes.User, SlotTypes.SlotC)); break;
+	case 3: StartCoroutine(AddRandomCard (PlayerTypes.User, SlotTypes.SlotD)); break;
+	}
+	if(addRandCnt == 4)
+	StartCoroutine(AddRandomCard (PlayerTypes.Computer_1, SlotTypes.SlotA)); // 컴퓨터턴으로 넘기고 컴퓨터 카드 드로우
+} 
+<pre><code>
+빈 슬롯에 카드 프리팹을 생성하는 AddRandomCard함수를 coroutine으로 딜레이시켜 재귀 돌리는 방식으로 유저와 컴퓨터에게 각각 카드를 줍니다. 
+
 ## Screenshots
 ![work_wanted01](https://user-images.githubusercontent.com/45503931/56092752-d92dc080-5efa-11e9-82bb-308334246d0c.png)
 ![work_wanted02](https://user-images.githubusercontent.com/45503931/56092753-d92dc080-5efa-11e9-8d49-a7172a94f854.png)

@@ -22,6 +22,15 @@
 - Language : C#
 
 ## Code Preview
+<pre><code>
+public enum UserState
+{
+	None,
+	User,
+	Com
+}
+</code></pre>
+턴의 상태는 enum의 값으로 관리되어 집니다.
 
 ## Screenshots
 ![work_wanted01](https://user-images.githubusercontent.com/45503931/56092752-d92dc080-5efa-11e9-82bb-308334246d0c.png)

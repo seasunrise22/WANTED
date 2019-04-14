@@ -51,7 +51,8 @@ enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합
 	{
 	position = UserCardPosition(slotType);
 	rotation = UserManagerScript.gameObject.transform.rotation;
-	UserManagerScript.DrawCard[(int)slotType] = Instantiate (Cards [(int)cardType], position, rotation) as GameObject;
+	UserManagerScript.DrawCard[(int)slotType]
+	= Instantiate (Cards [(int)cardType], position, rotation) as GameObject;
 	...
 	switch(addRandCnt) // 재귀 걸리게 하는 조건
 	{

@@ -37,9 +37,8 @@ if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4
 	Destroy(userDynamiteSet);
 	...
 }
-
-enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
 </code></pre>
+enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
 
 <pre><code>IEnumerator AddRandomCard(PlayerTypes playerType, SlotTypes slotType)
 {
@@ -63,10 +62,8 @@ enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합
 	if(addRandCnt == 4)
 	StartCoroutine(AddRandomCard (PlayerTypes.Computer_1, SlotTypes.SlotA)); // 컴퓨터턴으로 넘기고 컴퓨터 카드 드로우
 } 
-
-빈 슬롯에 카드 프리팹을 생성하는 AddRandomCard함수를 coroutine으로 딜레이시켜 재귀 돌리는 방식으로 유저와 컴퓨터에게 각각 카드를 줍니다. 
 </code></pre>
-
+빈 슬롯에 카드 프리팹을 생성하는 AddRandomCard함수를 coroutine으로 딜레이시켜 재귀 돌리는 방식으로 유저와 컴퓨터에게 각각 카드를 줍니다. 
 
 ## Screenshots
 ![work_wanted01](https://user-images.githubusercontent.com/45503931/56092752-d92dc080-5efa-11e9-82bb-308334246d0c.png)

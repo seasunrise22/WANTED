@@ -29,6 +29,7 @@
 	Com
 }
 ...
+
 //userDynamiteSet 변수가 비어있지 않고, 주사위를 던져서 나온 값이 5, 6이면
 if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4) 
 {

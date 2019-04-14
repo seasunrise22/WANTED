@@ -22,7 +22,8 @@
 - Language : C#
 
 ## Code Preview
-<pre><code>public enum UserState
+<pre><code>
+public enum UserState
 {
 	None,
 	User,
@@ -37,6 +38,7 @@ if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4
 	...
 }
 </code></pre>
+
 enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
 
 ## Screenshots

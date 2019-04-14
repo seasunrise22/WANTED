@@ -37,9 +37,8 @@ if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4
 	Destroy(userDynamiteSet);
 	...
 }
-</code></pre>
 enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
----
+</code></pre>
 
 <pre><code>IEnumerator AddRandomCard(PlayerTypes playerType, SlotTypes slotType)
 {

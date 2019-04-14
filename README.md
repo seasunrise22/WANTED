@@ -30,7 +30,16 @@ public enum UserState
 	Com
 }
 </code></pre>
-턴의 상태는 enum의 값으로 관리되어 집니다.
+<pre><code>
+//userDynamiteSet 변수가 비어있지 않고, 주사위를 던져서 나온 값이 5, 6이면
+if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4) 
+{
+	UserManagerScript.Hurt(3); //유저에게 3데미지 입힘
+	Destroy(userDynamiteSet);
+	...
+}
+</code></pre>
+enum의 값과 조건문으로 턴과 턴에 해당하는 행동을 관리합니다.
 
 ## Screenshots
 ![work_wanted01](https://user-images.githubusercontent.com/45503931/56092752-d92dc080-5efa-11e9-82bb-308334246d0c.png)

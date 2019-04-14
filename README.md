@@ -99,7 +99,7 @@ foreach(GameObject card in infoManager.ComManagerScript.DrawCard) //컴퓨터 �
 	... 조건문 계속
 }
 </code></pre>
-유저가 턴을 넘기면 컴퓨터가 미리 정해놓은 우선순위에 따라 알아서 행동하도록 만드는 comAI 함수를 호출하게 됩니다.
+유저가 턴을 넘기면 컴퓨터가 미리 정해놓은 우선순위에 따라 알아서 행동하도록 만드는 comAI 함수를 Coroutine으로 순차적 호출하게 됩니다.
 comAI 함수에서는 컴퓨터가 가지고 있는 카드를 탐색한 뒤, 컴퓨터의 핸드 빈공간 상황에 따라 미리 우선순위를 매겨둔 카드를 순서대로 사용하도록 조건문을 활용해 구현하였습니다. 
 
 ## Screenshots

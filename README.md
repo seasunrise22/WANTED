@@ -22,6 +22,7 @@
 - Language : C#
 
 ## Code Preview
+***카드 드로우***
 <pre><code>public enum UserState
 {
 	None,
@@ -66,6 +67,7 @@ enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합
 </code></pre>
 빈 슬롯에 카드 프리팹을 생성하는 AddRandomCard함수를 coroutine으로 딜레이시켜 재귀 돌리는 방식으로 유저와 컴퓨터에게 각각 카드를 줍니다. 
 
+***컴퓨터 인공지능***
 <pre><code>public IEnumerator comAI()
 {
 yield return null;

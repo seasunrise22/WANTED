@@ -39,9 +39,7 @@ if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4
 }
 </code></pre>
 enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
-
-
-
+.
 <pre><code>IEnumerator AddRandomCard(PlayerTypes playerType, SlotTypes slotType)
 {
 	yield return new WaitForSeconds(0.5f); //호출한 함수에게 1초후에 깨워서 아래 기능을 수행하라는 정보를 넘겨준다.

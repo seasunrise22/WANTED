@@ -23,7 +23,8 @@
 
 ## Code Preview
 ***턴의 관리***
-<pre><code>public enum UserState
+```C#
+public enum UserState
 {
 	None,
 	User,
@@ -38,11 +39,12 @@ if(userState == UserState.User && userDynamiteSet != null && clickDice.value > 4
 	Destroy(userDynamiteSet);
 	...
 }
-</code></pre>
+```
 enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합니다.
 
 ***카드 드로우***
-<pre><code>IEnumerator AddRandomCard(PlayerTypes playerType, SlotTypes slotType)
+```C#
+IEnumerator AddRandomCard(PlayerTypes playerType, SlotTypes slotType)
 {
 	yield return new WaitForSeconds(0.5f); //호출한 함수에게 1초후에 깨워서 아래 기능을 수행하라는 정보를 넘겨준다.
 	addRandCnt += 1;
@@ -65,11 +67,12 @@ enum의 값과 조건문으로 턴과 턴에 해당하는 행동들을 관리합
 	// 컴퓨터턴으로 넘기고 컴퓨터 카드 드로우
 	StartCoroutine(AddRandomCard (PlayerTypes.Computer_1, SlotTypes.SlotA)); 
 } 
-</code></pre>
+```
 빈 슬롯에 카드 프리팹을 생성하는 AddRandomCard함수를 coroutine으로 딜레이시켜 재귀 돌리는 방식으로 유저와 컴퓨터에게 각각 카드를 줍니다. 
 
 ***컴퓨터 인공지능***
-<pre><code>public IEnumerator comAI()
+```C#
+public IEnumerator comAI()
 {
 yield return null;
 InfoManager infoManager = GameObject.Find ("InfoManager").GetComponent<InfoManager> ();
@@ -98,7 +101,7 @@ foreach(GameObject card in infoManager.ComManagerScript.DrawCard) //컴퓨터 �
 	}
 	... 조건문 계속
 }
-</code></pre>
+```
 유저가 턴을 넘기면 컴퓨터가 미리 정해놓은 우선순위에 따라 알아서 행동하도록 만드는 comAI 함수를 Coroutine으로 순차적 호출하게 됩니다.
 comAI 함수에서는 컴퓨터가 가지고 있는 카드를 탐색한 뒤, 컴퓨터의 핸드 빈공간 상황에 따라 미리 우선순위를 매겨둔 카드를 순서대로 사용하도록 조건문을 활용해 구현하였습니다.
 

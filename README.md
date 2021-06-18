@@ -116,8 +116,13 @@ comAI 함수에서는 컴퓨터가 가지고 있는 카드를 탐색한 뒤, 컴
 
 ## Android 빌드시 오류날 때 해봄직한 대처들
 유니티 버전 4.55.
+
 UNITY 빌드시 Player Settings > Minimum API Level 4.4 KitKat 설정.
+
 SDK 4.4 이상 전부 설치(안드로이드 스튜디오 버전 4.2.1).
+
 JDK 버전 8.
+
 SDK 설치된 폴더로 간 후 기존 tools 폴더 이름 변경 후 tools_r25.2.5-windows 압축파일을 풀어서 이름 tools로 바꾼 후 SDK폴더에 넣어줌.
+
 Player Settings의 Bundle Identifier 양식에 맞게 변경 (com.project.wanted로 변경함).

@@ -20,6 +20,14 @@
 ## Development Environment
 - IDE : Unity 4.55
 - Language : C#
+## Screenshots
+![work_wanted01](https://user-images.githubusercontent.com/45503931/56092752-d92dc080-5efa-11e9-82bb-308334246d0c.png)
+![work_wanted02](https://user-images.githubusercontent.com/45503931/56092753-d92dc080-5efa-11e9-8d49-a7172a94f854.png)
+![work_wanted03](https://user-images.githubusercontent.com/45503931/56092754-d9c65700-5efa-11e9-81f5-2f173b36807d.png)
+![work_wanted04](https://user-images.githubusercontent.com/45503931/56092755-d9c65700-5efa-11e9-94e9-8d933874127c.png)
+![work_wanted05](https://user-images.githubusercontent.com/45503931/56092756-d9c65700-5efa-11e9-8a91-6428820fff22.png)
+![work_wanted06](https://user-images.githubusercontent.com/45503931/56092757-d9c65700-5efa-11e9-8044-c4a0f612dfb3.png)
+![work_wanted07](https://user-images.githubusercontent.com/45503931/56092758-da5eed80-5efa-11e9-99f5-a7dbd82ccaf6.png)
 
 ## Code Preview
 ***턴의 관리***
@@ -104,15 +112,6 @@ foreach(GameObject card in infoManager.ComManagerScript.DrawCard) //컴퓨터 �
 ```
 유저가 턴을 넘기면 컴퓨터가 미리 정해놓은 우선순위에 따라 알아서 행동하도록 만드는 comAI 함수를 Coroutine으로 순차적 호출하게 됩니다.
 comAI 함수에서는 컴퓨터가 가지고 있는 카드를 탐색한 뒤, 컴퓨터의 핸드 빈공간 상황에 따라 미리 우선순위를 매겨둔 카드를 순서대로 사용하도록 조건문을 활용해 구현하였습니다.
-
-## Screenshots
-![work_wanted01](https://user-images.githubusercontent.com/45503931/56092752-d92dc080-5efa-11e9-82bb-308334246d0c.png)
-![work_wanted02](https://user-images.githubusercontent.com/45503931/56092753-d92dc080-5efa-11e9-8d49-a7172a94f854.png)
-![work_wanted03](https://user-images.githubusercontent.com/45503931/56092754-d9c65700-5efa-11e9-81f5-2f173b36807d.png)
-![work_wanted04](https://user-images.githubusercontent.com/45503931/56092755-d9c65700-5efa-11e9-94e9-8d933874127c.png)
-![work_wanted05](https://user-images.githubusercontent.com/45503931/56092756-d9c65700-5efa-11e9-8a91-6428820fff22.png)
-![work_wanted06](https://user-images.githubusercontent.com/45503931/56092757-d9c65700-5efa-11e9-8044-c4a0f612dfb3.png)
-![work_wanted07](https://user-images.githubusercontent.com/45503931/56092758-da5eed80-5efa-11e9-99f5-a7dbd82ccaf6.png)
 
 ## Android 빌드시 오류날 때 해봄직한 대처들
 유니티 버전 4.55.
